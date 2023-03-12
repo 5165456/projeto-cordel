@@ -46,10 +46,10 @@ section{
     padding-left: 30px;
 }
 section.normal{
-    margin-bottom: 1.5vh;
+background-color: white;
 }
 section.normal > p{
-    margin-bottom: 5vh;
+    margin-bottom: 7vh;
 }
 section.imagem{
     background-attachment: fixed;
@@ -69,26 +69,6 @@ section.imagem > p{
 #img2{
     background-image: url("../imagens/background002.jpg");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer{
     background-color: black;
     color: white;
